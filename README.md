@@ -1,63 +1,26 @@
-<!--
-  Ziad Sakr / GitHub profile
-  Profile repository: https://github.com/zsakr/zsakr
-  Custom edition: upload the README and the assets directory together.
--->
+<!-- GitHub profile README for github.com/zsakr --><h1>Hey, I'm Ziad 👋</h1><img align="right" src="./assets/ziad-coding.gif" width="300" alt="Animated developer mascot coding at a laptop, with a squash racket and books" />Founding AI Engineer · Builder of intelligent systems
 
-<div align="center">
+I turn complex ideas into software that works in the real world — from AI agents and computer vision to the APIs, data pipelines, and evaluation systems behind them.
 
-<img width="100%" alt="Ziad Sakr — original AI engineering cover artwork" src="assets/ziad-hero.png" />
+I care about the part after the demo: making things accurate, fast, reliable, and actually useful.
+- Building: Production AI for healthcare at InpharmD
+- Exploring: Quant engineering, market systems, and systematic trading
+- Outside code: Former professional squash player; still obsessed with improving one detail at a time
+- Based in: New York
+My website · GitHub
+<br clear="right" />What I like working on
+Intelligent systems	Computer vision	Engineering for production
+LLM agents, RAG, orchestration, tool use, evaluation, and guardrails	Motion analysis, applied ML, visual intelligence, and turning video into insight	Backend APIs, distributed workflows, data pipelines, observability, and CI/CD
 
-<p><b>From ideas to systems that ship.</b></p>
 
-**Founding AI Engineer** · New York · [ziadsakr.com](https://ziadsakr.com) · [GitHub](https://github.com/zsakr)
+My toolkit
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,react,nextjs,pytorch,docker,aws,postgres,redis,git,github&theme=dark&perline=12" alt="Python, TypeScript, FastAPI, React, Next.js, PyTorch, Docker, AWS, PostgreSQL, Redis, Git and GitHub" />
+</p>Python · TypeScript · FastAPI · React / Next.js · PyTorch · PostgreSQL · Redis · AWS · Docker
+Things I believe
+Ship the useful thing. Test the edge cases. Improve it every day.
 
-</div>
-
----
-
-### The short version
-
-I build **production AI systems**—from autonomous agents and retrieval workflows to computer vision and the infrastructure that makes them reliable. I enjoy the entire process: understanding the problem, designing the system, testing its edge cases, and getting it into people's hands.
-
-Today I work on **AI engineering for healthcare**. My background also includes performance analytics and competitive sport, and I'm exploring the engineering behind **quantitative finance**.
-
-> **The interesting part isn't just making a model work. It's making the whole system work.**
-
-### What I work on
-
-| `01` Agentic systems | `02` Visual intelligence | `03` Production engineering |
-| :--- | :--- | :--- |
-| LLM workflows, retrieval, tools, orchestration, evaluation, and safety checks. | Computer vision, motion analysis, visual reasoning, and turning raw footage into usable insights. | APIs, async jobs, data pipelines, testing, cloud infrastructure, and dependable deployments. |
-
-### Toolbox
-
-<div align="center">
-
-<img width="100%" alt="Engineering tools: Python, TypeScript, React, Next.js, FastAPI, PyTorch, AWS, Docker, PostgreSQL, Redis, Git and Linux" src="assets/stack.png" />
-
-<br />
-
-`Python` · `TypeScript` · `FastAPI` · `React / Next.js` · `PyTorch` · `PostgreSQL` · `Redis` · `AWS` · `Docker` · `CI/CD`
-
-</div>
-
-### On my radar
-
-- **Reliable AI:** strong evaluations, traceability, validation, and agents that behave predictably outside demos.
-- **High-performance systems:** fast pipelines, careful architecture, and thoughtful developer experience.
-- **Quant engineering:** market-data infrastructure, backtesting, and systematic decision-making.
-
-### Beyond the code
-
-Before engineering, I competed in squash at a high level. It taught me to study tiny details, iterate constantly, and perform under pressure. I bring that same mindset to building software.
-
----
-
-<div align="center">
-
-**Build carefully. Measure what matters. Keep improving.**
-
-<sub>Explore my work at <a href="https://ziadsakr.com">ziadsakr.com</a> · Find me on <a href="https://github.com/zsakr">GitHub</a></sub>
-
-</div>
+A great system isn't just a clever model. It's the data, infrastructure, evaluation, and experience working together.
+<p align="center">
+  <sub>Curious about AI engineering, computer vision, or quant systems? Explore my work at <a href="https://ziadsakr.com">ziadsakr.com</a>.</sub>
+</p>
