@@ -2,7 +2,7 @@
 
 # Hey, I'm Ziad 👋
 
-<img align="right" width="280" src="assets/ziad-coding-vc.gif" alt="Animated illustration of a developer coding, with a squash racket and AI books" />
+<img align="right" width="280" src="assets/ziad-coding-cv.gif" alt="Animated illustration of a developer coding, with a squash racket and AI books" />
 
 **Founding AI Engineer · Building intelligent systems that work in the real world**
 
