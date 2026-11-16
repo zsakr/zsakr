@@ -33,12 +33,12 @@ The part I enjoy most? **Taking something from a promising demo to a product peo
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=cpp,python,ts,fastapi,react,nextjs,pytorch,postgres,redis,aws,gcp,docker,git,github&theme=dark&perline=7"
-    alt="C++, Python, TypeScript, FastAPI, React, Next.js, PyTorch, PostgreSQL, Redis, AWS, Google Cloud, Docker, Git, GitHub"
+    alt="C++, Python, JavaScript, TypeScript, FastAPI, React, Next.js, PyTorch, PostgreSQL, Redis, AWS, Google Cloud, Docker, Git, GitHub"
   />
 </p>
 
 <p align="center">
-  <code>C++</code> &nbsp; <code>Python</code> &nbsp; <code>TypeScript</code> &nbsp;
+  <code>C++</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp;
   <code>FastAPI</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code> &nbsp;
   <code>PyTorch</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Redis</code> &nbsp;
   <code>AWS</code> &nbsp; <code>Google Cloud</code> &nbsp; <code>Docker</code>
