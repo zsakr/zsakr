@@ -27,11 +27,22 @@ The part I enjoy most? **Taking something from a promising demo to a product peo
 
 ## My toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=C++, python,ts,fastapi,react,nextjs,pytorch,docker,aws,postgres,redis,git,github&theme=dark&perline=12" alt="Python, TypeScript, FastAPI, React, Next.js, PyTorch, Docker, AWS, Google Cloud, PostgreSQL, Redis, Git and GitHub" />
+
+<h3>Languages & Technologies</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,python,ts,fastapi,react,nextjs,pytorch,postgres,redis,aws,gcp,docker,git,github&theme=dark&perline=7"
+    alt="C++, Python, TypeScript, FastAPI, React, Next.js, PyTorch, PostgreSQL, Redis, AWS, Google Cloud, Docker, Git, GitHub"
+  />
 </p>
 
-`C++` &nbsp; `Python` &nbsp; `TypeScript` &nbsp; `FastAPI` &nbsp; `React` &nbsp; `Next.js` &nbsp; `PyTorch` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `AWS` &nbsp; `Google Cloud` &nbsp; `Docker`
+<p align="center">
+  <code>C++</code> &nbsp; <code>Python</code> &nbsp; <code>TypeScript</code> &nbsp;
+  <code>FastAPI</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code> &nbsp;
+  <code>PyTorch</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Redis</code> &nbsp;
+  <code>AWS</code> &nbsp; <code>Google Cloud</code> &nbsp; <code>Docker</code>
+</p>
 
 ## What I'm exploring next
 
