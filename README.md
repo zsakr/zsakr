@@ -28,10 +28,10 @@ The part I enjoy most? **Taking something from a promising demo to a product peo
 ## My toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,react,nextjs,pytorch,docker,aws,postgres,redis,git,github&theme=dark&perline=12" alt="Python, TypeScript, FastAPI, React, Next.js, PyTorch, Docker, AWS, Google Cloud, PostgreSQL, Redis, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=C++, python,ts,fastapi,react,nextjs,pytorch,docker,aws,postgres,redis,git,github&theme=dark&perline=12" alt="Python, TypeScript, FastAPI, React, Next.js, PyTorch, Docker, AWS, Google Cloud, PostgreSQL, Redis, Git and GitHub" />
 </p>
 
-`Python` &nbsp; `TypeScript` &nbsp; `FastAPI` &nbsp; `React` &nbsp; `Next.js` &nbsp; `PyTorch` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `AWS` &nbsp; `Google Cloud` &nbsp; `Docker`
+`C++` &nbsp; `Python` &nbsp; `TypeScript` &nbsp; `FastAPI` &nbsp; `React` &nbsp; `Next.js` &nbsp; `PyTorch` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `AWS` &nbsp; `Google Cloud` &nbsp; `Docker`
 
 ## What I'm exploring next
 
