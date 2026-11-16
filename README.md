@@ -1,61 +1,63 @@
+<!--
+  Ziad Sakr / GitHub profile
+  Profile repository: https://github.com/zsakr/zsakr
+  Custom edition: upload the README and the assets directory together.
+-->
 
 <div align="center">
 
-# Ziad Sakr
+<img width="100%" alt="Ziad Sakr — original AI engineering cover artwork" src="assets/ziad-hero.png" />
 
-### Founding AI Engineer · AI Systems & Machine Learning
+<p><b>From ideas to systems that ship.</b></p>
 
-**Building reliable AI systems, from research prototypes to production.**
-
-[![Website](https://img.shields.io/badge/Website-ziadsakr.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziadsakr.com)
-[![GitHub](https://img.shields.io/badge/GitHub-zsakr-181717?style=for-the-badge&logo=github)](https://github.com/zsakr)
+**Founding AI Engineer** · New York · [ziadsakr.com](https://ziadsakr.com) · [GitHub](https://github.com/zsakr)
 
 </div>
 
 ---
 
-## About Me
+### The short version
 
-I'm a **Founding AI Engineer at InpharmD**, working on production AI systems for healthcare, clinical research, and intelligent automation.
+I build **production AI systems**—from autonomous agents and retrieval workflows to computer vision and the infrastructure that makes them reliable. I enjoy the entire process: understanding the problem, designing the system, testing its edge cases, and getting it into people's hands.
 
-My interests include **AI agents, LLM infrastructure, computer vision, backend engineering, and applied machine learning**.
+Today I work on **AI engineering for healthcare**. My background also includes performance analytics and competitive sport, and I'm exploring the engineering behind **quantitative finance**.
 
-I'm also exploring quantitative engineering, financial markets, and algorithmic trading systems.
+> **The interesting part isn't just making a model work. It's making the whole system work.**
 
-## Engineering Workflow
+### What I work on
 
-```mermaid
-flowchart LR
-    A["Data"] --> B["AI Agents"]
-    B --> C["Reasoning"]
-    C --> D["Evaluation"]
-    D --> E["Production"]
-```
+| `01` Agentic systems | `02` Visual intelligence | `03` Production engineering |
+| :--- | :--- | :--- |
+| LLM workflows, retrieval, tools, orchestration, evaluation, and safety checks. | Computer vision, motion analysis, visual reasoning, and turning raw footage into usable insights. | APIs, async jobs, data pipelines, testing, cloud infrastructure, and dependable deployments. |
 
-## Technical Focus
+### Toolbox
 
-| Area | Technologies & Interests |
-|---|---|
-| **AI Engineering** | LLMs, Multi-Agent Systems, RAG, AI Evaluation |
-| **Machine Learning** | Computer Vision, Deep Learning, Applied ML |
-| **Backend Systems** | Python, APIs, Async Processing, Automation |
-| **Data Engineering** | Data Pipelines, Analytics, Retrieval |
-| **Quantitative Engineering** | Market Data, Backtesting, Systematic Trading |
+<div align="center">
 
-## What I'm Interested In
+<img width="100%" alt="Engineering tools: Python, TypeScript, React, Next.js, FastAPI, PyTorch, AWS, Docker, PostgreSQL, Redis, Git and Linux" src="assets/stack.png" />
 
-- Building reliable, scalable AI systems.
-- Improving AI agent accuracy and evaluation.
-- Developing machine learning applications.
-- Engineering data-intensive infrastructure.
-- Exploring quantitative research and trading technology.
+<br />
+
+`Python` · `TypeScript` · `FastAPI` · `React / Next.js` · `PyTorch` · `PostgreSQL` · `Redis` · `AWS` · `Docker` · `CI/CD`
+
+</div>
+
+### On my radar
+
+- **Reliable AI:** strong evaluations, traceability, validation, and agents that behave predictably outside demos.
+- **High-performance systems:** fast pipelines, careful architecture, and thoughtful developer experience.
+- **Quant engineering:** market-data infrastructure, backtesting, and systematic decision-making.
+
+### Beyond the code
+
+Before engineering, I competed in squash at a high level. It taught me to study tiny details, iterate constantly, and perform under pressure. I bring that same mindset to building software.
 
 ---
 
 <div align="center">
 
-**Build. Evaluate. Improve. Ship.**
+**Build carefully. Measure what matters. Keep improving.**
 
-[Website](https://ziadsakr.com) · [GitHub](https://github.com/zsakr)
+<sub>Explore my work at <a href="https://ziadsakr.com">ziadsakr.com</a> · Find me on <a href="https://github.com/zsakr">GitHub</a></sub>
 
 </div>
